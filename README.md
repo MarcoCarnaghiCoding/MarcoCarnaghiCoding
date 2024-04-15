@@ -1,3 +1,4 @@
+<h1 align="center"> Hi, I'm Marco! </h1>
 ### About me 👋
 <div align="left">
   <a href="https://www.linkedin.com/in/carnaghimarco/" target="_blank">
@@ -26,7 +27,7 @@
 
 <p align="left">◼︎ Programming Languages: Python and MatLab.<br><br>◼︎ Machine Learning: PyTorch, TensorFlow, Scikit-learn, Linear Regression, Logistic Regression, Decision Trees, KNN, SVM, Model Evaluation, Cross-validation, Hyperparameter Optimization, K-Means, DBSCAN, SVD, PCA, Bagging, Random Forest, XGBoost, Extreme Gradient Boosting, NLP, Neural Networks, Deep Learning. <br><br>◼︎ Data Engineering: SQL, MySQL, ETL or ELT.<br><br>◼︎ Data Analytics: PowerBI, Seaborn, Matplotlib.<br><br>◼︎ English: B2 level.</p>
 
-<p align="left"> ⚡ Fun fact: I'm really passionate about Music too. So, if you want me to talk a lot during a chat, you already have two subject to go through 😉. 
+<p align="left"> ⚡ Fun fact: I'm really passionate about Music too. So, if you want me to talk a lot during a chat, you already have two subject to go through 😉. </p>
 
 ###
 
